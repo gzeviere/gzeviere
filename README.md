@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antoine Dhainaut</h1>
+<!-- <h1 align="center">Hi 👋, I'm Antoine Dhainaut</h1>
 <h3 align="center">Student in Cybersecurity, Université Libre de Bruxelles</h3>
 
 <br>
@@ -31,4 +31,4 @@
   <a href="https://ctf.hackthebox.com/user/profile/679441" target="blank"><img align="center"
       src="https://www.svgrepo.com/show/331423/hack-the-box.svg"
       alt="HTB" height="30" width="40" /></a>
-</p>
+</p> -->
